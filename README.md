@@ -1,2 +1,2 @@
 # fiapAndroidActivityLifeCycle
-Activity life cycle study.
+Andorid Activity life cycle demonstration project.
