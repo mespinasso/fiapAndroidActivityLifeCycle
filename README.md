@@ -1,2 +1,2 @@
 # fiapAndroidActivityLifeCycle
-Andorid Activity life cycle demonstration project.
+Android Activity life cycle demonstration project.
